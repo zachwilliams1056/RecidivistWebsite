@@ -1,0 +1,19 @@
+footer {
+    background-color: rgba(49, 72, 94, 0.626);
+    height: 100px;
+    width: 100%;
+    background: linear-gradient(to left, rgba(0, 0, 255, 0) 60%, rgba(72, 94, 120, 1) 100%);
+}
+
+.socialLogos {
+    height: 35px;
+    width: 35px;
+    padding: 10px;
+    margin-top: 20px;
+    left: -20px;
+    position: relative;
+}
+
+.logocontainer {
+    margin-left: -50px;
+}

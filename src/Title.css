@@ -1,0 +1,12 @@
+@font-face {
+    font-family: sovereign;
+    src: url(Sovereign-Regular.otf)
+}
+
+h1 {
+    font-family: sovereign;
+    font-size: 75px;
+    letter-spacing: 7px;
+    font-weight: 100;
+    color: rgb(255, 255, 255)
+}

@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+body {
+ background-color: rgb(0, 0, 0);
+}
+
+@font-face {
+  font-family: lotr;
+  src: url('IMFePIit29P.ttf');
+}
+
+.App {
+  font-family: lotr;
+  color: white;
+  font-weight: 900;
+  letter-spacing: 3px;
+}
